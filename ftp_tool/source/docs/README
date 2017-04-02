@@ -1,0 +1,2 @@
+txt2man -t config -s 5 FileTransfer_config.5.txt > FileTransfer_config.5
+txt2man -t FileTransfer -s 1 FileTransfer.1.txt > FileTransfer.1
